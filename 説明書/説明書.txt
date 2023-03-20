@@ -1,0 +1,26 @@
+「3Dサウンドを作ってみた」説明書
+	HAL東京 ゲーム学部3年 五十嵐 貴哉
+
+操作説明
+ENTER:シーン切り替え
+W/Q/E/S 移動
+I/攻撃(シーン1のみ)
+
+P/再生(シーン2のみ)
+
+注意事項
+シーン2で終わりとなります。
+ESCで終了してください。
+音量が大変大きくなっているため、音量を小さくして調節お願いします。
+ヘッドホン推奨です。
+
+参考サイト
+素材：mixamo	https://www.mixamo.com
+	Textures・Poly Haven	https://polyhaven.com
+	Springin	https://www.springin.org
+	DOVA-SYNDROME	https://dova-s.jp
+
+	入門XAudio2/初級XAudio2	著作者 土田善紀
+
+バージョン履歴
+2/22	タイトルBGMの変更・シーン2で'P'ボタンで再生・リバーブの追加
